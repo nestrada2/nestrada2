@@ -1,16 +1,14 @@
-## Hi there 👋
+```console
+nestrada2@github:~$ ./welcome.sh
+```
 
-<!--
-**nestrada2/nestrada2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+nestrada2@github
+-------------------------
+🏫 Education: Bachelor of Science, Computer Science @USF (expected Dec 2024)
+🔎 Interests: Animation, Game Development
+💻 Languages: Python, C, JavaScript/TypeScript, Java  
+🛠️ Tools: Git, Autodesk Maya, Adobe Creative Cloud, Figma, VS Code
+🌐 Web Technologies: Bootstrap, jQuery, React, Ant Design, Flask, Node.js, Express, Handlebars
+🗄️ Databases: MySQL, MongoDB
+```
